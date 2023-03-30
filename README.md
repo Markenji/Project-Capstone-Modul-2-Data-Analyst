@@ -30,15 +30,15 @@ Pada project capstone ke-2 yang bertema Data Analyst dimana kami bebas menentuka
 ### Rata-Rata Views Video yang Trending dan Tidak Trending Berdasarkan kategori
 ![alt text](https://github.com/Markenji/Project-Capstone-Modul-2-Data-Analyst/blob/main/Tableau/Rata-Rata%20Views%20Video%20yang%20Trending%20dan%20Tidak%20Trending%20Berdasarkan%20Category.png?raw=true)
 ### AVG. Penayangan per Judul Saluran
-
+![alt text](https://github.com/Markenji/Project-Capstone-Modul-2-Data-Analyst/blob/main/Tableau/AVG.%20Views%20per%20Channel%20Tittle%20(1).png?raw=true)
 ### Views vs Like
-
+![alt text](https://github.com/Markenji/Project-Capstone-Modul-2-Data-Analyst/blob/main/Tableau/Views%20vs%20Like.png?raw=true)
 ### Tren Peta Pohon atau tidak Tren tergantung pada Kategori
-
+![alt text](https://github.com/Markenji/Project-Capstone-Modul-2-Data-Analyst/blob/main/Tableau/Tree%20Map%20Trending%20or%20not%20Trending%20depends%20on%20Category.png?raw=true)
 ### Video Paling Banyak Dilihat berdasarkan Kategori baik Trending maupun Tidak Trending
-
+![alt text](https://github.com/Markenji/Project-Capstone-Modul-2-Data-Analyst/blob/main/Tableau/Most%20Views%20%20Video%20by%20Category%20even%20It%20Trending%20or%20Not%20Trending.png?raw=true)
 ### Distribusi Trending Rating berdasarkan jumlah penayangan judul channel
-
+![alt text](https://github.com/Markenji/Project-Capstone-Modul-2-Data-Analyst/blob/main/Tableau/Distribution%20of%20Trending%20Rating%20based%20on%20the%20number%20of%20channel%20title%20views.png?raw=true)
 
 
 
