@@ -9,14 +9,16 @@ Pada project capstone ke-2 yang bertema Data Analyst dimana kami bebas menentuka
 
 ## Konten Utama
 
- - [Main Project ipynb : US Youtube Trending Data](https://github.com/Markenji/Project-Capstone-Modul-2-Data-Analyst/blob/main/Capstone%20Project%202%20Youtube%20(4).ipynb)
+ - [Main Project ipynb : US Youtube Trending Data](https://github.com/Markenji/Project-Capstone-Modul-2-Data-Analyst/blob/main/Capstone%20Project%202%20Youtube%20(4).ipynb)  
 ![Pandas License](https://img.shields.io/badge/pandas-1.4.2-lightgrey)  
 ![Pandas License](https://img.shields.io/badge/numpy-1.23.2-yellow)  
 ![Pandas License](https://img.shields.io/badge/seaborn-0.11.2-blue)  
 ![Pandas License](https://img.shields.io/badge/matplotlib-3.5.1-red)
 
-## Tableau Story
  - [Main Project tableau Story : US Youtube Trending Data](https://public.tableau.com/app/profile/adha.ozy.prima.dewangga7190/viz/StoryCapstone2Tableau/StoryCapstone2_1?publish=yes)
+
+## Tableau Story
+
 
  - [Rata-Rata Views Video yang Trending dan Tidak Trending Berdasarkan kategori](#Rata-Rata-Views-Video-yang-Trending-dan-Tidak-Trending-Berdasarkan-kategori)
  - [AVG. Penayangan per Judul Saluran](#AVG.-Penayangan-per-Judul-Saluran)
