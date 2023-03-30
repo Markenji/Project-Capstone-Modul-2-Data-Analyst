@@ -16,6 +16,7 @@ Pada project capstone ke-2 yang bertema Data Analyst dimana kami bebas menentuka
 ![Pandas License](https://img.shields.io/badge/matplotlib-3.5.1-red)
 
 ## Tableau Story
+ - [Main Project tableau Story : US Youtube Trending Data](https://public.tableau.com/app/profile/adha.ozy.prima.dewangga7190/viz/StoryCapstone2Tableau/StoryCapstone2_1?publish=yes)
 
  - [Rata-Rata Views Video yang Trending dan Tidak Trending Berdasarkan kategori](#Rata-Rata-Views-Video-yang-Trending-dan-Tidak-Trending-Berdasarkan-kategori)
  - [AVG. Penayangan per Judul Saluran](#AVG.-Penayangan-per-Judul-Saluran)
