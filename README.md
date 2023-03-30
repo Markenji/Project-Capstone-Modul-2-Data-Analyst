@@ -24,7 +24,7 @@ Pada project capstone ke-2 yang bertema Data Analyst dimana kami bebas menentuka
  - [Data Visualisation](#Data-Visualisation)
  - [Statistics](#Statistics)
  - [Data Analysis](#Data-Analysis)
- - [Kesimpulan dan Rekomendasi](Kesimpulan-dan-Rekomendasi)
+ - [Kesimpulan dan Rekomendasi](#Kesimpulan-dan-Rekomendasi)
 
 ## Main Project Capstone Modul 2 Data Analyst ipynb
 
