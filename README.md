@@ -28,7 +28,7 @@ Pada project capstone ke-2 yang bertema Data Analyst dimana kami bebas menentuka
 ## Tableau Grafik
 
 ### Rata-Rata Views Video yang Trending dan Tidak Trending Berdasarkan kategori
-
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/Markenji/Project-Capstone-Modul-2-Data-Analyst/blob/main/Tableau/Rata-Rata%20Views%20Video%20yang%20Trending%20dan%20Tidak%20Trending%20Berdasarkan%20Category.png)?raw=true)
 ### AVG. Penayangan per Judul Saluran
 
 ### Views vs Like
