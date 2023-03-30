@@ -17,6 +17,16 @@ Pada project capstone ke-2 yang bertema Data Analyst dimana kami bebas menentuka
 
  - [Main Project tableau Story : US Youtube Trending Data](https://public.tableau.com/app/profile/adha.ozy.prima.dewangga7190/viz/StoryCapstone2Tableau/StoryCapstone2_1?publish=yes)
 
+## Daftar Isi Main Project ipynb
+ - Latar Belakang
+ - Pernyataan Masalah
+ - Data
+ - Data Understanding and Data Cleaning
+ - Data Visualisation
+ - Statistics
+ - Data Analysis
+ - Kesimpulan dan Rekomendasi
+
 ## Tableau Story
 
 
