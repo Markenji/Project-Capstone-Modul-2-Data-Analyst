@@ -1,3 +1,5 @@
+![alt text](https://github.com/Markenji/Project-Capstone-Modul-2-Data-Analyst/blob/main/Tableau/capstone%202.jpg?raw=true)
+
 # Project Capstone Modul 2 Data Analyst 
 
 ## US Youtube Trending Data / (Data Youtube yang Trending di US)
